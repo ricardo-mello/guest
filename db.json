@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "angular-2",
+      "author": "tortvs",
+      "id": 1
+    },
+    {
+      "title": "angular-2",
+      "author": "tortvs",
+      "id": 2
+    },
+    {
+      "title": "angular-2",
+      "author": "tortvs",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "login": [
+    {
+      "user": "teste@123.com",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "user": "admin@admin",
+      "password": "teste",
+      "id": 2
+    }
+  ]
+}
