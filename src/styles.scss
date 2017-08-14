@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+body, html{
+    height: 100%;
+}
+
+app-root {
+    background: url(http://geodavephotography.com/images/hotel-images/36383470-hotel-images.jpg);
+    background-size: cover;
+    height: 100%;
+    display: block;
+}
+
+app-login{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
